@@ -1,0 +1,142 @@
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\Project1.0.dll.config
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\Project1.0.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\Project1.0.pdb
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\csc.exe
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\csc.exe.config
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\csc.rsp
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\csi.exe
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\csi.exe.config
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\csi.rsp
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.AppContext.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Console.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.IO.Compression.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Net.Http.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.ValueTuple.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\vbc.exe
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\vbc.exe.config
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\vbc.rsp
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\EntityFramework.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\EntityFramework.SqlServer.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\EntityFramework.xml
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\EntityFramework.SqlServer.xml
+C:\Users\bryanmelvin\source\repos\Project1.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bryanmelvin\source\repos\Project1.0\obj\Debug\Project1.0.csproj.AssemblyReference.cache
+C:\Users\bryanmelvin\source\repos\Project1.0\obj\Debug\Project1.0.csproj.CoreCompileInputs.cache
+C:\Users\bryanmelvin\source\repos\Project1.0\obj\Debug\Project1.0.csproj.CopyComplete
+C:\Users\bryanmelvin\source\repos\Project1.0\obj\Debug\Project1.0.dll
+C:\Users\bryanmelvin\source\repos\Project1.0\obj\Debug\Project1.0.pdb
+D:\Git psd\bin\Project1.0.dll.config
+D:\Git psd\bin\Project1.0.dll
+D:\Git psd\bin\Project1.0.pdb
+D:\Git psd\bin\EntityFramework.dll
+D:\Git psd\bin\EntityFramework.SqlServer.dll
+D:\Git psd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git psd\bin\EntityFramework.xml
+D:\Git psd\bin\EntityFramework.SqlServer.xml
+D:\Git psd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git psd\obj\Debug\Project1.0.csproj.AssemblyReference.cache
+D:\Git psd\obj\Debug\Project1.0.csproj.CoreCompileInputs.cache
+D:\Git psd\obj\Debug\Project1.0.csproj.Up2Date
+D:\Git psd\obj\Debug\Project1.0.dll
+D:\Git psd\obj\Debug\Project1.0.pdb
+D:\Git psd\bin\roslyn\csc.exe
+D:\Git psd\bin\roslyn\csc.exe.config
+D:\Git psd\bin\roslyn\csc.rsp
+D:\Git psd\bin\roslyn\csi.exe
+D:\Git psd\bin\roslyn\csi.exe.config
+D:\Git psd\bin\roslyn\csi.rsp
+D:\Git psd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git psd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git psd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Git psd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git psd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git psd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git psd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git psd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Git psd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Git psd\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Git psd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git psd\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Git psd\bin\roslyn\System.AppContext.dll
+D:\Git psd\bin\roslyn\System.Collections.Immutable.dll
+D:\Git psd\bin\roslyn\System.Console.dll
+D:\Git psd\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Git psd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Git psd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Git psd\bin\roslyn\System.Globalization.Calendars.dll
+D:\Git psd\bin\roslyn\System.IO.Compression.dll
+D:\Git psd\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Git psd\bin\roslyn\System.IO.FileSystem.dll
+D:\Git psd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Git psd\bin\roslyn\System.Net.Http.dll
+D:\Git psd\bin\roslyn\System.Net.Sockets.dll
+D:\Git psd\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git psd\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Git psd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Git psd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Git psd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Git psd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Git psd\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Git psd\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Git psd\bin\roslyn\System.ValueTuple.dll
+D:\Git psd\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Git psd\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Git psd\bin\roslyn\System.Xml.XPath.dll
+D:\Git psd\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Git psd\bin\roslyn\vbc.exe
+D:\Git psd\bin\roslyn\vbc.exe.config
+D:\Git psd\bin\roslyn\vbc.rsp
+D:\Git psd\bin\roslyn\VBCSCompiler.exe
+D:\Git psd\bin\roslyn\VBCSCompiler.exe.config
+D:\Git psd\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Git psd\bin\CrystalDecisions.ReportSource.dll
+D:\Git psd\bin\CrystalDecisions.Shared.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Git psd\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Git psd\bin\stdole.dll
