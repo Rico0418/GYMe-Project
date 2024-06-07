@@ -20,6 +20,6 @@ namespace Project1._0.Model
         public string Status { get; set; }
     
         public virtual MsUser MsUser { get; set; }
-        public virtual TransactionDetail TransactionDetail { get; set; }
+        public virtual ICollection<TransactionDetail> TransactionDetails { get; set; }
     }
 }
